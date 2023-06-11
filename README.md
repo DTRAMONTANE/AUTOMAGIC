@@ -2,6 +2,7 @@
 Project Bible
 # Project Automagic
 
+
 Welcome to the Automagic project! This project aims to create a Transmedia Intellectual Property and Integrated Reality Game. This README file serves as a guide to understand the project, its structure, and how to contribute.
 
 ## Table of Contents
